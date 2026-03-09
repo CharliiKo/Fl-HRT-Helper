@@ -6,7 +6,7 @@ We would like to express our sincere gratitude to **@LaoZhong-Mihari** and **@Sm
 
 本项目是 **[Oyama-s-HRT-Tracker](https://github.com/SmirnovaOyama/Oyama-s-HRT-Tracker)** 的项目分支，致力于采用**Flutter**前端框架重构应用并发布 Android (apk) 和 IOS (ipa) 完整应用包，为用户提供更便捷的体验。<br>
 
-此处特别鸣谢**@LaoZhong-Mihari**、**@SmirnovaOyama**的卓越工作😺。<br>
+此处特别鸣谢 **@LaoZhong-Mihari，@SmirnovaOyama**的卓越工作😺。<br>
 
 
 
@@ -34,15 +34,18 @@ We strictly adhere to the `PKcore.swift` and `PKparameter.swift` logic provided 
 
 * **Sublingual Guidance**: Detailed "Hold Time" and absorption parameter ($\theta$) guidance based on strict medical modeling.<br>
 
-  **舌下服用指导**：基于严格的医学建模，提供详细的“含服时间（Hold Time）”与吸收参数（$\theta$）参考。<br>
+  **舌下服用指导**：基于严格的医学建模，提供详细的含服时间与吸收参数（$\theta$）参考。<br>
 
-* **Privacy First**: All data is stored entirely in your device's `localStorage`. No data will be ever sent to a server.<br>
+* **Privacy First**: All data is stored entirely in your device's `localStorage`. No data will be ever sent to a server without your authorization.<br>
 
-  **隐私优先**：所有数据都完全存储在您设备的 `localStorage` 中，绝不会发送到任何服务器。<br>
+  **隐私优先**：所有数据都完全存储在您设备的 `localStorage` 中，绝不会主动发送到任何服务器。<br>
 
-* **Internationalization**: Native support for **Simplified Chinese**,  **Traditional Chinese**, **English**,  **Japanese**.<br>
+* **Internationalization**: Native support for **Simplified Chinese**,  **Traditional Chinese**, **English** and **Japanese**.<br>
 
-  **多语言支持**：原生支持简体中文、繁体中文、英语、日本语。<br>
+  **多语言支持**：原生支持 **简体中文、繁体中文、英语、日本语**。<br>
+
+* **Cloud Backup**: Support for uploading your local personal to third-party cloud drives such as `Google Drive`, `One Drive`, `Baiduyun Drive` and `Huawei Cloud` using official apis.<br>
+**云端备份支持**：利用官方接口允许您将本地数据备份至`Google Drive`、`One Drive`、`百度云盘`和`华为云空间`等第三方网盘。
 
 
 # License 开源协议
