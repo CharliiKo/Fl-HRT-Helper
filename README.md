@@ -1,4 +1,4 @@
-# Pharmacological HRT Helper
+# HRT Helper with Flutter
 
 This is a fork of **[Oyama-s-HRT-Tracker](https://www.google.com/url?sa=E&q=https%3A%2F%2Fgithub.com%2FSmirnovaOyama%2FOyama-s-HRT-Tracker)**, focused on refactoring the app with **Flutter**. Our goal is to provide a seamless user experience by releasing full Android (apk) and iOS (ipa) builds.<br>
 
