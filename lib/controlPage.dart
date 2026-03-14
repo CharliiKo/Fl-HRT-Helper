@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_localizations/flutter_localizations.dart';
 import 'pages/homePage.dart';
 import 'pages/calibrationPage.dart';
 import 'pages/personPage.dart';

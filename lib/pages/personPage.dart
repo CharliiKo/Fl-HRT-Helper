@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_localizations/flutter_localizations.dart';
 
 class PersonPage extends StatelessWidget {
   const PersonPage({super.key});

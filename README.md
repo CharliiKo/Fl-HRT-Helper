@@ -1,8 +1,11 @@
 # HRT Helper with Flutter
 
+🥥*last update：14th, March, 2026*<br>
+↑ : "I'm just a coconut."
+
 This is a fork of **[Oyama-s-HRT-Tracker](https://www.google.com/url?sa=E&q=https%3A%2F%2Fgithub.com%2FSmirnovaOyama%2FOyama-s-HRT-Tracker)**, focused on refactoring the app with **Flutter**. Our goal is to provide a seamless user experience by releasing full Android (apk) and iOS (ipa) builds.<br>
 
-We would like to express our sincere gratitude to **@LaoZhong-Mihari** and **@SmirnovaOyama** for their exceptional contributions 😺.<br>
+We would like to express our sincere gratitude to **[@LaoZhong-Mihari](https://github.com/LaoZhong-Mihari)** and **[@SmirnovaOyama](https://github.com/SmirnovaOyama)** for their exceptional contributions 😺.<br>
 
 本项目是 **[Oyama-s-HRT-Tracker](https://github.com/SmirnovaOyama/Oyama-s-HRT-Tracker)** 的项目分支，致力于采用**Flutter**前端框架重构应用并发布 Android (apk) 和 IOS (ipa) 完整应用包，为用户提供更便捷的体验。<br>
 
@@ -50,6 +53,11 @@ We strictly adhere to the `PKcore.swift` and `PKparameter.swift` logic provided 
 
 # License 开源协议
 MIT License 🦖
+
+# Contributors 贡献者
+- **[@IceblueSakura](https://github.com/IceblueSakura)**
+- **[@Sewens](https://github.com/Sewens)**
+- **[@CharliiKo](https://github.com/Charliiko)**
 
 # After All 写在最后
 Thanking you for visiting this repo. We wish you a healthy body and happy life.😘<br>
