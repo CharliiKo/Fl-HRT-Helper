@@ -202,7 +202,7 @@ class _ControlPageState extends State<ControlPage> {
             labelText: '给药途径',
             prefixIcon: Icon(Icons.alt_route),
           ),
-          value: selectedRoute,
+          initialValue: selectedRoute,
           items: routeToTypes.keys
               .map((v) => DropdownMenuItem(value: v, child: Text(v)))
               .toList(),
@@ -225,7 +225,7 @@ class _ControlPageState extends State<ControlPage> {
             prefixIcon: const Icon(Icons.medication),
             hintText: selectedRoute == null ? "请先选择给药途径" : "请选择药物类型",
           ),
-          value: selectedType, // 这里的 value 会随着 setModalState 重新传入最新值
+          initialValue: selectedType, // 这里的 value 会随着 setModalState 重新传入最新值
           items:
               (selectedRoute == null
                       ? <String>[]
@@ -333,7 +333,7 @@ class _ControlPageState extends State<ControlPage> {
             Expanded(
               flex: 1,
               child: DropdownButtonFormField<String>(
-                value: selectedUnit,
+                initialValue: selectedUnit,
                 decoration: const InputDecoration(
                   labelText: '单位',
                   border: OutlineInputBorder(
